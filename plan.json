@@ -1,0 +1,14 @@
+[
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["Contacts.json"]
+    },
+    {
+        "sobject": "isvcdptest2__ISV_Order__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Orders.json"]
+    }
+]

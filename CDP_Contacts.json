@@ -1,0 +1,84 @@
+{"records":
+[
+   {
+      "attributes": {
+         "type": "Contact",
+         "referenceId": "ContactRef1"
+     },
+     "FirstName": "Onofredo",
+     "LastName": "Gilbertson",
+     "Email": "ogilbertson0@squidoo.com.cdp",
+     "MailingStreet": "15284 Autumn Leaf Lane",
+     "MailingCity": "Stockholm",
+     "MailingPostalCode": "113 59",
+     "MailingState": "Stockholm",
+     "MailingCountry": "Sweden",
+     "isvcdptest2__Level__c": "Secondary",
+     "isvcdptest2__Languages__c": "Estonian"
+   },
+   {
+      "attributes": {
+         "type": "Contact",
+         "referenceId": "ContactRef2"
+     },
+     "FirstName": "Olympie",
+     "LastName": "Newbatt",
+     "Email": "onewbatt1@de.vu.cdp",
+     "MailingStreet": "5325 Service Lane",
+     "MailingCity": "Dolo",
+     "MailingPostalCode": "1270",
+     "MailingState": "",
+     "MailingCountry": "Philippines",
+     "isvcdptest2__Level__c": "Tertiary",
+     "isvcdptest2__Languages__c": "Tswana"
+   },
+   {
+      "attributes": {
+         "type": "Contact",
+         "referenceId": "ContactRef3"
+     },
+     "FirstName": "Flin",
+     "LastName": "Joly",
+     "Email": "fjoly2@imageshack.us.cdp",
+     "MailingStreet": "011 Meadow Vale Way",
+     "MailingCity": "Balazar",
+     "MailingPostalCode": "4570-013",
+     "MailingState": "Porto",
+     "MailingCountry": "Portugal",
+     "isvcdptest2__Level__c": "Secondary",
+     "isvcdptest2__Languages__c": "Italian"
+   },
+   {
+      "attributes": {
+         "type": "Contact",
+         "referenceId": "ContactRef4"
+     },
+     "FirstName": "Natividad",
+     "LastName": "Spiller",
+     "Email": "nspiller3@people.com.cn.cdp",
+     "MailingStreet": "19057 Brown Plaza",
+     "MailingCity": "Hongtian",
+     "MailingPostalCode": "",
+     "MailingState": "",
+     "MailingCountry": "China",
+     "isvcdptest2__Level__c": "Tertiary",
+     "isvcdptest2__Languages__c": "Afrikaans"
+   },
+   {
+      "attributes": {
+         "type": "Contact",
+         "referenceId": "ContactRef5"
+     },
+     "FirstName": "Chico",
+     "LastName": "Peetermann",
+     "Email": "cpeetermann4@infoseek.co.jp.cdp",
+     "MailingStreet": "69 Dahle Road",
+     "MailingCity": "Humaitá",
+     "MailingPostalCode": "98670-000",
+     "MailingState": "",
+     "MailingCountry": "Brazil",
+     "isvcdptest2__Level__c": "Secondary",
+     "isvcdptest2__Languages__c": "Indonesian"
+   }
+  ]
+}
